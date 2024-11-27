@@ -1,0 +1,13 @@
+
+  {
+    "sid": "_XyZ1234Abc987MnOpQrKlLmZzA1B",
+    "given_name": "Ananya",
+    "family_name": "Sharma",
+    "nickname": "ananya.s.91",
+    "name": "Ananya Sharma",
+    "picture": "https://siddhbose-kivtechs.github.io/dummy_user/ananya-avatar.avif",
+    "updated_at": "2024-11-28T18:45:30.512Z",
+    "email": "ananya.sharma@example.com",
+    "email_verified": true,
+    "sub": "google-oauth2|123456789012345678901"
+  }
